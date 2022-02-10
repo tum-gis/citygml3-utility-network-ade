@@ -9,12 +9,7 @@ Please refer to https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE for
 
 The CityGML Utility Network ADE for CityGML 2.0 is available here: https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE.
 
-<<<<<<< HEAD
-
-# Updating the CityGML Utility Network ADE to CityGML 3.0
-=======
 ## Updating the CityGML Utility Network ADE to CityGML 3.0
->>>>>>> origin/master
 
 The new version 3.0 of the international OGC standard CityGML was published in September 2021 by the Open Geospatial Consortium (OGC). The  CityGML 3.0 standard is available here: https://docs.ogc.org/is/20-010/20-010.html. CityGML 3.0 introduces several new concepts, amongst others a new Space concept, a revised Level of Detail (LOD) concept, the concept of top-level feature types, and a revised concept for defining Application Domain Extensions (ADEs). All these concepts are of relevance to the CityGML Utility Network ADE as well.
 
@@ -45,8 +40,7 @@ For further information on how to use ShapeChange, please refer to http://shapec
 
 Test data sets for the CityGML 3.0 Utility Network ADE will be provided in the future.
 
-<<<<<<< HEAD
-# CityGML Utility Network ADE
+## CityGML Utility Network ADE
 
 The following papers provide detailed information on the CityGML Utility Network ADE, use cases and projects that have applied the ADE:
 - Becker, T., Nagel, C. & Kolbe, T. H., 2011: Integrated 3D Modeling of Multi-utility Networks and Their Interdependencies for Critical Infrastructure Analysis. Advances in 3D Geo-Information Sciences, Lecture Notes in Geoinformation and Cartography, Kolbe, T. H., König, G. & Nagel, C. (eds.), Springer, Berlin Heidelberg, 1-20: http://mediatum.ub.tum.de/doc/1145740/358854.pdf
@@ -58,11 +52,7 @@ The following papers provide detailed information on the CityGML Utility Network
 - den Duijn, X., Agugiaro, G. & Zlatanova, S., 2018: Modelling Below- and Above-Ground Utility Network Features with the CityGML Utility Network ADE: Experiences from Rotterdam. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Science, IV-4/W7, 43-50: https://doi.org/10.5194/isprs-annals-IV-4-W7-43-2018
 - Ortega, S.; Wendel, J.; Santana, J.M.; Murshed, S.M.; Boates, I.; Trujillo, A.; Nichersu, A.; Suárez, J.P. Making the Invisible Visible—Strategies for Visualizing Underground Infrastructures in Immersive Environments. ISPRS Int. J. Geo-Inf. 2019, 8, 152: https://www.mdpi.com/2220-9964/8/3/152
 
-
-# CityGML
-=======
 ## CityGML
->>>>>>> origin/master
 
 The [OGC CityGML](http://www.opengeospatial.org/standards/citygml) standard defines a conceptual model and exchange format for the representation, storage and exchange of semantic 3D city models. The current version CityGML 3.0 allows for exchanging 3D city models in various exchange formats including GML 3.2.1 and GML 3.3, whereas the version CityGML 2.0 uses GML 3.1.1 for data exchange. The aim of the development of CityGML is to reach a common definition of the basic entities, attributes, and relations of a 3D city model. By means of so-called Application Domain Extensions (ADEs), the core model of CityGML can be extended systematically by application-specific attributes and object types.
 
