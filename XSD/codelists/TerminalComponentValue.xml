@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TerminalComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">TerminalComponentValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8351_10691">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/TerminalComponentValue">lamp</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8351_10692">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/TerminalComponentValue">cock</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8351_10693">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/TerminalComponentValue">streetLight</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8351_10694">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/TerminalComponentValue">hydrant</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8351_10695">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/TerminalComponentValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

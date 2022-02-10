@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="MeasurementComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">MeasurementComponentValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8392_10813">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MeasurementComponentValue">anode</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8392_10814">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MeasurementComponentValue">corrosionDetector</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8392_10815">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MeasurementComponentValue">pressureSensor</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8392_10816">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MeasurementComponentValue">meter</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8392_10817">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MeasurementComponentValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,13 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="OtherComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">OtherComponentValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8384_10787">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/OtherComponentValue">transformerEnd</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8384_10788">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/OtherComponentValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

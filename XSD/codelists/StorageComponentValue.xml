@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="StorageComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">StorageComponentValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8420_10899">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StorageComponentValue">storageBasin</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8420_10900">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StorageComponentValue">battery</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8420_10901">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StorageComponentValue">tank</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8420_10902">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StorageComponentValue">cistern</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8420_10903">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StorageComponentValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

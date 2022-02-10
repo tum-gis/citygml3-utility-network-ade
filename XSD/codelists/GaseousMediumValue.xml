@@ -1,0 +1,48 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="GaseousMediumValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">GaseousMediumValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10890">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">naturalGas</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10891">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">petroleumGas</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10892">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">helium</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10893">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">air</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10894">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">dioxygen</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10895">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">nitrogen</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10896">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">hydrogen</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10897">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">carbon</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8419_10898">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/GaseousMediumValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,38 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="LineMeaningValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">LineMeaningValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10696">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">coolingLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10697">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">constantLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10698">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">flowLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10699">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">returnLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10700">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">steamLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10701">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">condensateLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8352_10702">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineMeaningValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

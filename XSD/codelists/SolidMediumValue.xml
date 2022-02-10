@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="SolidMediumValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">SolidMediumValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8413_10869">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SolidMediumValue">carbonDust</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8413_10870">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SolidMediumValue">stone</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8413_10871">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SolidMediumValue">ore</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8413_10872">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SolidMediumValue">sand</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8413_10873">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SolidMediumValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

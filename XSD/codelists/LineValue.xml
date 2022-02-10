@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="LineValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">LineValue</gml:identifier>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8379_10760">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineValue">mainLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8379_10761">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineValue">transportLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8379_10762">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineValue">supplyLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8379_10763">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineValue">houseServiceLine</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_8379_10764">
+      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LineValue">unknown</gml:identifier>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>
