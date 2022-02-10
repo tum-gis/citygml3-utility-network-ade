@@ -9,8 +9,12 @@ Please refer to https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE for
 
 The CityGML Utility Network ADE for CityGML 2.0 is available here: https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE.
 
+<<<<<<< HEAD
 
 # Updating the CityGML Utility Network ADE to CityGML 3.0
+=======
+## Updating the CityGML Utility Network ADE to CityGML 3.0
+>>>>>>> origin/master
 
 The new version 3.0 of the international OGC standard CityGML was published in September 2021 by the Open Geospatial Consortium (OGC). The  CityGML 3.0 standard is available here: https://docs.ogc.org/is/20-010/20-010.html. CityGML 3.0 introduces several new concepts, amongst others a new Space concept, a revised Level of Detail (LOD) concept, the concept of top-level feature types, and a revised concept for defining Application Domain Extensions (ADEs). All these concepts are of relevance to the CityGML Utility Network ADE as well.
 
@@ -18,7 +22,7 @@ To make use of the new CityGML 3.0 concepts in the ADE, several modifications ha
 
 In addition, few further changes have been applied to the UML model, mainly because the current modelling in the CityGML 2.0 Utility Network ADE did not seem correct. These modifications are described in ["Changes"](CHANGES.md).
 
-# Resources
+## Resources
 
 The **UML model** of the CityGML 3.0 Utility Network ADE was created using the software Enterprise Architect.  
 The UML folder provides
@@ -37,10 +41,11 @@ The ShapeChange folder contains
 - the ShapeChange configuration file that was used for the derivation.
 For further information on how to use ShapeChange, please refer to http://shapechange.net/.
 
-# Samples
+## Samples
 
 Test data sets for the CityGML 3.0 Utility Network ADE will be provided in the future.
 
+<<<<<<< HEAD
 # CityGML Utility Network ADE
 
 The following papers provide detailed information on the CityGML Utility Network ADE, use cases and projects that have applied the ADE:
@@ -55,6 +60,9 @@ The following papers provide detailed information on the CityGML Utility Network
 
 
 # CityGML
+=======
+## CityGML
+>>>>>>> origin/master
 
 The [OGC CityGML](http://www.opengeospatial.org/standards/citygml) standard defines a conceptual model and exchange format for the representation, storage and exchange of semantic 3D city models. The current version CityGML 3.0 allows for exchanging 3D city models in various exchange formats including GML 3.2.1 and GML 3.3, whereas the version CityGML 2.0 uses GML 3.1.1 for data exchange. The aim of the development of CityGML is to reach a common definition of the basic entities, attributes, and relations of a 3D city model. By means of so-called Application Domain Extensions (ADEs), the core model of CityGML can be extended systematically by application-specific attributes and object types.
 
