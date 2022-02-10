@@ -148,9 +148,8 @@
           <element maxOccurs="unbounded" minOccurs="0" name="featureGraph" type="utility:FeatureGraphPropertyType"/>
           <element minOccurs="0" name="construction" type="utility:ConstructionPropertyType"/>
           <element minOccurs="0" name="fillingMaterial" type="utility:MaterialPropertyType"/>
-          <element minOccurs="0" name="lod0Curve" type="gml:CurvePropertyType"/>
-          <element minOccurs="0" name="lod2SweepGeometry" type="utility:SweepGeometryPropertyType"/>
-          <element minOccurs="0" name="lod3SweepGeometry" type="utility:SweepGeometryPropertyType"/>
+          <element maxOccurs="unbounded" minOccurs="0" name="lod2SweepGeometry" type="utility:SweepGeometryPropertyType"/>
+          <element maxOccurs="unbounded" minOccurs="0" name="lod3SweepGeometry" type="utility:SweepGeometryPropertyType"/>
         </sequence>
       </extension>
     </complexContent>
@@ -178,6 +177,28 @@
   <complexType name="AbstractPipePropertyType">
     <sequence minOccurs="0">
       <element ref="utility:AbstractPipe"/>
+    </sequence>
+    <attributeGroup ref="gml:AssociationAttributeGroup"/>
+    <attributeGroup ref="gml:OwnershipAttributeGroup"/>
+  </complexType>
+  <element abstract="true" name="AbstractSimpleFunctionalComponent" substitutionGroup="utility:AbstractFunctionalElement" type="utility:AbstractSimpleFunctionalComponentType">
+    <annotation>
+      <documentation>Attribute "isActive == true": Defines active elements, i.e. network elements which play an active role in the network. These components can generate, process, or amplify a commodity (e.g. pump, valve, generator). Active elements require some form of power (electric, manual, ...) to operate.
+Attribute "isActive == false": Defines passive elements, i.e. network elements which play a passive role in the network (e.g. busbar, resistor, tee fitting). These components passively support the transport of commodities and do not require power to operate.</documentation>
+    </annotation>
+  </element>
+  <complexType abstract="true" name="AbstractSimpleFunctionalComponentType">
+    <complexContent>
+      <extension base="utility:AbstractFunctionalElementType">
+        <sequence>
+          <element minOccurs="0" name="isActive" type="boolean"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  <complexType name="AbstractSimpleFunctionalComponentPropertyType">
+    <sequence minOccurs="0">
+      <element ref="utility:AbstractSimpleFunctionalComponent"/>
     </sequence>
     <attributeGroup ref="gml:AssociationAttributeGroup"/>
     <attributeGroup ref="gml:OwnershipAttributeGroup"/>
@@ -330,10 +351,10 @@
     <attributeGroup ref="gml:AssociationAttributeGroup"/>
     <attributeGroup ref="gml:OwnershipAttributeGroup"/>
   </complexType>
-  <element name="ConnectionComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:ConnectionComponentType"/>
+  <element name="ConnectionComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:ConnectionComponentType"/>
   <complexType name="ConnectionComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
         </sequence>
@@ -382,10 +403,10 @@
       <element ref="utility:ContactType"/>
     </sequence>
   </complexType>
-  <element name="ControllerComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:ControllerComponentType"/>
+  <element name="ControllerComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:ControllerComponentType"/>
   <complexType name="ControllerComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
           <element maxOccurs="unbounded" minOccurs="0" name="actuator">
@@ -728,10 +749,10 @@
     <attributeGroup ref="gml:AssociationAttributeGroup"/>
     <attributeGroup ref="gml:OwnershipAttributeGroup"/>
   </complexType>
-  <element name="MeasurementComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:MeasurementComponentType"/>
+  <element name="MeasurementComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:MeasurementComponentType"/>
   <complexType name="MeasurementComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
         </sequence>
@@ -962,10 +983,10 @@
       <enumeration value="multiMode"/>
     </restriction>
   </simpleType>
-  <element name="OtherComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:OtherComponentType"/>
+  <element name="OtherComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:OtherComponentType"/>
   <complexType name="OtherComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
         </sequence>
@@ -1208,28 +1229,6 @@
     <attributeGroup ref="gml:AssociationAttributeGroup"/>
     <attributeGroup ref="gml:OwnershipAttributeGroup"/>
   </complexType>
-  <element abstract="true" name="SimpleFunctionalComponent" substitutionGroup="utility:AbstractFunctionalElement" type="utility:SimpleFunctionalComponentType">
-    <annotation>
-      <documentation>Attribute "isActive == true": Defines active elements, i.e. network elements which play an active role in the network. These components can generate, process, or amplify a commodity (e.g. pump, valve, generator). Active elements require some form of power (electric, manual, ...) to operate.
-Attribute "isActive == false": Defines passive elements, i.e. network elements which play a passive role in the network (e.g. busbar, resistor, tee fitting). These components passively support the transport of commodities and do not require power to operate.</documentation>
-    </annotation>
-  </element>
-  <complexType abstract="true" name="SimpleFunctionalComponentType">
-    <complexContent>
-      <extension base="utility:AbstractFunctionalElementType">
-        <sequence>
-          <element minOccurs="0" name="isActive" type="boolean"/>
-        </sequence>
-      </extension>
-    </complexContent>
-  </complexType>
-  <complexType name="SimpleFunctionalComponentPropertyType">
-    <sequence minOccurs="0">
-      <element ref="utility:SimpleFunctionalComponent"/>
-    </sequence>
-    <attributeGroup ref="gml:AssociationAttributeGroup"/>
-    <attributeGroup ref="gml:OwnershipAttributeGroup"/>
-  </complexType>
   <element name="SolidMedium" substitutionGroup="utility:AbstractSingleMedium" type="utility:SolidMediumType"/>
   <complexType name="SolidMediumType">
     <complexContent>
@@ -1299,10 +1298,10 @@ Attribute "isActive == false": Defines passive elements, i.e. network elements w
       <element ref="utility:Storage"/>
     </sequence>
   </complexType>
-  <element name="StorageComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:StorageComponentType"/>
+  <element name="StorageComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:StorageComponentType"/>
   <complexType name="StorageComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
         </sequence>
@@ -1371,10 +1370,10 @@ Attribute "isActive == false": Defines passive elements, i.e. network elements w
       <element ref="utility:SweepGeometry"/>
     </sequence>
   </complexType>
-  <element name="TerminalComponent" substitutionGroup="utility:SimpleFunctionalComponent" type="utility:TerminalComponentType"/>
+  <element name="TerminalComponent" substitutionGroup="utility:AbstractSimpleFunctionalComponent" type="utility:TerminalComponentType"/>
   <complexType name="TerminalComponentType">
     <complexContent>
-      <extension base="utility:SimpleFunctionalComponentType">
+      <extension base="utility:AbstractSimpleFunctionalComponentType">
         <sequence>
           <element minOccurs="0" name="class" type="gml:CodeType"/>
         </sequence>

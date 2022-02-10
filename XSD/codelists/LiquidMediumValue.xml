@@ -1,58 +1,58 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="LiquidMediumValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">LiquidMediumValue</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">LiquidMediumValue</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10731">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">freshWater</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">freshWater</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10732">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">stormWater</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">stormWater</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10733">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">wasteWater</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">wasteWater</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10734">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">districtHeatingWater</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">districtHeatingWater</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10735">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">petrol</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">petrol</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10736">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">oil</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">oil</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10737">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">gasohol</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">gasohol</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10738">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">acid</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">acid</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10739">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">kerosine</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">kerosine</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10740">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">liquidPG</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">liquidPG</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8367_10741">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/LiquidMediumValue">unknown</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/LiquidMediumValue">unknown</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>

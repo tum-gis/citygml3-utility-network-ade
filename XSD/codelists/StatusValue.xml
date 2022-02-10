@@ -1,43 +1,43 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="StatusValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">StatusValue</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">StatusValue</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10942">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">inUse</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">inUse</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10943">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">tempOutOfService</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">tempOutOfService</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10944">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">outOfService</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">outOfService</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10945">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">blocked</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">blocked</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10946">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">underConstruction</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">underConstruction</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10947">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">planned</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">planned</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10948">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">destroyed</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">destroyed</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8434_10949">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/StatusValue">unknown</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/StatusValue">unknown</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>

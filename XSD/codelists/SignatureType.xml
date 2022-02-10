@@ -1,23 +1,23 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="SignatureType" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">SignatureType</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">SignatureType</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8372_10749">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SignatureType">230V/50Hz_SinglePhase</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/SignatureType">230V/50Hz_SinglePhase</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8372_10750">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SignatureType">120V/60Hz_SinglePhase</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/SignatureType">120V/60Hz_SinglePhase</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8372_10751">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SignatureType">100Bar</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/SignatureType">100Bar</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8372_10752">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/SignatureType">10Bar</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/SignatureType">10Bar</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>

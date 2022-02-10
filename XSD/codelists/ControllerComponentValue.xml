@@ -1,53 +1,53 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ControllerComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">ControllerComponentValue</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">ControllerComponentValue</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10856">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">switch</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">switch</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10857">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">valve</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">valve</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10858">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">slideValve</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">slideValve</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10859">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">pump</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">pump</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10860">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">generator</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">generator</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10861">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">turbine</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">turbine</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10862">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">invertedSyphon</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">invertedSyphon</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10863">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">voltageRegulator</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">voltageRegulator</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10864">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">tap</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">tap</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8409_10865">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ControllerComponentValue">unknown</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ControllerComponentValue">unknown</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>

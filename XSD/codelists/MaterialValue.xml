@@ -1,83 +1,83 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="MaterialValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">MaterialValue</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">MaterialValue</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10765">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">steel</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">steel</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10766">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">stoneware</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">stoneware</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10767">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">PE</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">PE</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10768">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">casting</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">casting</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10769">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">iron</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">iron</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10770">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">concrete</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">concrete</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10771">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">brick</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">brick</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10772">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">glass</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">glass</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10773">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">copper</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">copper</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10774">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">rubber</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">rubber</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10775">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">polymericOpticalFibre</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">polymericOpticalFibre</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10776">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">quartzSilica</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">quartzSilica</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10777">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">air</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">air</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10778">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">carbon</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">carbon</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10779">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">sand</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">sand</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8380_10780">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/MaterialValue">unknown</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/MaterialValue">unknown</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>

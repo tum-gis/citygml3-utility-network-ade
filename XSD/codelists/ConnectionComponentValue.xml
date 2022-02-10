@@ -1,38 +1,38 @@
 <?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ConnectionComponentValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
-  <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9">ConnectionComponentValue</gml:identifier>
+  <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9">ConnectionComponentValue</gml:identifier>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10824">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">flange</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">flange</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10825">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">coupling</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">coupling</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10826">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">adapter</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">adapter</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10827">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">teeFitting</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">teeFitting</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10828">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">crossFitting</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">crossFitting</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10829">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">manhole</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">manhole</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_8398_10830">
-      <gml:identifier codeSpace="http://www.citygml.org/ade/utility/0.9.9/ConnectionComponentValue">unknown</gml:identifier>
+      <gml:identifier codeSpace="http://www.citygml.org/citygml/3.0/ade/utility/0.9.9/ConnectionComponentValue">unknown</gml:identifier>
     </gml:Definition>
   </gml:dictionaryEntry>
 </gml:Dictionary>
